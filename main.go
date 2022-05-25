@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	shortid "githud.com/onedss/shortid/core"
+	shortid "github.com/onedss/shortid/core"
 )
 
 func main() {

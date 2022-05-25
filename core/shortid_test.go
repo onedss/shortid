@@ -4,7 +4,7 @@
 package core_test
 
 import (
-	shortid "githud.com/onedss/shortid/core"
+	shortid "github.com/onedss/shortid/core"
 	"testing"
 	"time"
 )
